@@ -1,1 +1,1 @@
-Este projeto tem como objetivo demonstrar as mais diversas possibilidade para um profissional na área de Engenharia de aquicultura, uma área que está em constante evolução acerca
+Projeto a ser finalizado... Sistema de Controle e Gestão de um laboratório de Aquicultura da UFSC
